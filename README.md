@@ -1,8 +1,5 @@
 ## **MARKET BASKET OPTIMIZATION**
-
-
-
-        In this project we will analyze the market basket using the association rule mining technique implimented with the help of an apriori algorithm to identify frequent patterns and associations among a set of items to optimize how we can enable people to buy more  items and raise their revenue.
+In this project we will analyze the market basket using the association rule mining technique implimented with the help of an apriori algorithm to identify frequent patterns and associations among a set of items to optimize how we can enable people to buy more  items and raise their revenue.
 
         
 
